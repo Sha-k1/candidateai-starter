@@ -1,36 +1,49 @@
-Jordan Doucette
-Bachelor of Commerce student, Marketing and Business Analytics
-Halifax, Nova Scotia · jordan.doucette@example.com
+EDUCATION
 
-SUMMARY
-Fourth-year commerce student who turns messy sales and survey data into decisions a team can act on. Comfortable with Excel, SQL and Tableau, and at ease presenting results to managers. Looking for a marketing analyst or business analyst role starting in May 2027.
+Bachelor of Science in Computer Science and Business Administration, Saint Mary's University, Halifax, Nova Scotia
+Enrolled in the Co-operative Education Program
 
 EXPERIENCE
 
-Marketing Analytics Co-op, Harbourline Credit Union, Halifax, NS · January 2026 to August 2026
-Built a monthly Tableau dashboard that tracked new member sign-ups by branch and campaign. The marketing director used it in her Monday planning meeting.
-Cleaned three years of campaign data in Excel and SQL, which cut report preparation from two days to half a day.
-Ran an email subject line test on 12,000 members that raised open rates from 21% to 27%.
+President of Pakistan Student Association, Saint Mary's University
+November 2025 to March 2026
+Managed constitutional drafting, executive leadership, branding funding, and event organization for the Pakistan Student Association.
 
-Sales Associate (part-time), Atlantic Outdoor Supply, Dartmouth, NS · May 2023 to December 2025
-Served 40 to 60 customers a shift and trained five new hires on the point-of-sale system.
-Proposed a weekend restocking schedule that the store manager adopted for all seasonal stock.
+Volunteer Coordinator, Being There Community Care Pilot Initiative, Halifax, Nova Scotia
+February 2025 to May 2025
+Coordinated volunteer recruitment, screening, group interviews, and administrative scheduling for Being There.
 
-EDUCATION
+Residence Service Officer, Saint Mary's University Residence Services, Halifax, Nova Scotia
+May 2026 to July 2026
+Submitted application materials and confirmed selection for the Residence Service Officer role with Housing and Conference Services.
 
-Bachelor of Commerce, Saint Mary's University, Halifax · expected April 2027
-Major in Marketing, minor in Business Analytics. Dean's List in 2024 and 2025.
-Relevant courses: Marketing Research, Business Statistics, Database Fundamentals, Consumer Behaviour.
-
-SKILLS
-Data: Excel (pivot tables, XLOOKUP), SQL, Tableau, Google Analytics 4
-Marketing: A/B testing, survey design, email campaigns, social media reporting
-Languages: English, and conversational French
-
-VOLUNTEERING
-Volunteer Coordinator, Harbour City Food Bank student chapter · 2024 to present
-Schedules about 30 volunteers a month for weekend sorting shifts and tracks their hours in a shared spreadsheet.
+Volunteer, Saint Mary's University Food Bank, Halifax, Nova Scotia
+February 2024 to May 2025
+Handled food distribution, stock organization, and inventory logging.
 
 PROJECTS
-Campus Coffee Pricing Study · 2025
-Surveyed 310 students and used the results to recommend a price for a loyalty card. The student association adopted the recommendation for the fall 2025 term.
+
+HRM Project Value Estimator
+Performed end-to-end data cleaning, outlier analysis, and feature selection across over 18,000 building permit records using Python and Pandas.
+
+Spokesfan AI Web Development and Infrastructure
+Operated as a solo ai web development intern, building static web platforms and managing technical documentation and infrastructure audits using advanced AI tools.
+Handled solo web development, DNS and MX record migrations, and troubleshooting AWS and Squarespace configurations.
+
+Pakistan Student Association Branding and Operations
+Created promotional posts for student organizations and prepared vector t-shirt submissions for a university competition using Canva.
+
+Being There Digital Lead Capture and Web Assets
+Designed a Google Form lead capture system and developed landing page web assets for the Being There community initiative.
+
+Arthur L. Irving Entrepreneurship Centre Student Ambassador
+worked as Student Ambassador for Arthur L. Irving Entrepreneurship Centre, promoting the centre and it's events & services around campus to new students.
+
+ACCT 3332 Mike's Bikes Simulation
+Assumed the role of finance manager for a team in the Mike's Bikes business simulation course for the Fall 2026 semester, analyzing industry benchmark reports and managing financial strategy.
+
+SKILLS
+
+Languages: Python, Java, JavaScript, Lua, HTML, CSS, SQL
+Tools and Technologies: Git, GitHub, VS Code, Google Suite, Excel, Power BI, Tableau, Salesforce, Zapier, Canva, Roblox Studio, Unity, AWS, Squarespace
+Methodologies: Data Analysis, Data Engineering, Extract Transform Load, Agile Methodology, Web Development, Algorithmic Problem Solving
