@@ -1,17 +1,23 @@
 HOW I WORK
-I like problems that start with a messy spreadsheet and end with one clear chart. I ask a lot of questions at the start so I don't build the wrong thing, and I send short progress notes so nobody has to chase me.
+
+I approach tasks and projects based on priority and due dates, giving more attention to high-importance items and tackling approaching deadlines first. To ensure everything gets done, I use time blocks, plan ahead to avoid conflicts, and manage multiple parallel deadlines one by one.
 
 WHAT I'M LOOKING FOR
-A marketing analyst or business analyst role in Halifax or remote, starting in May 2027. I want a team that tests ideas with data and is willing to say when a campaign didn't work.
+
+I am looking for a growth-oriented role in technology, business, or people-focused environments where I can apply my knowledge and skills, with a preference for environments that allow me to build and expand my technical expertise.
 
 STRENGTHS PEOPLE MENTION
-My co-op manager said I explain numbers in a way people outside analytics can follow. Teammates say I stay calm when deadlines get close.
+
+Others point out that I am very cooperative and understanding, willing to compromise and perspective-take in team settings. I bring a growth mindset to new concepts outside my immediate field, care deeply about the quality of my tasks, and maintain strong punctuality and time management skills.
 
 STILL LEARNING
-Python. I finished an introductory course and use it for small data cleaning scripts, but I am not yet confident with it.
+
+I am actively strengthening my foundations by exploring data analytics, backend development, systems and deployments, and working with RAG models to deepen my understanding of machine learning and artificial intelligence.
 
 OUTSIDE WORK
-Trail running and baking bread. I ran my first half marathon in 2025.
+
+Outside of work and studies, I consume entertainment media like the Marvel Cinematic Universe, go to the gym consistently, hang out with friends, and enjoy continuous learning as a hobby by solving problems and exploring how everyday systems work under the hood.
 
 PRONOUNS
-They/them.
+
+He/him
